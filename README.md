@@ -20,4 +20,6 @@
     7. Monitor Telegraf
     8. Split Configurations to multiple contatiners (see docker-compose-example.yml)
 
+    More Information: https://www.influxdata.com/blog/telegraf-best-practices/ 
+
 ![Example](https://github.com/ECU-Sensing/telegraf-configurations/blob/main/example.PNG)
